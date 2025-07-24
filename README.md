@@ -12,7 +12,7 @@ This project is a hands-on Linux shell scripting assignment designed to practice
 Bash / Shell Scripting (Git Bash / WSL / AWS)
 Git & GitHub for version control and submission
 📸 Output Screenshots
-All relevant terminal outputs have been captured and included in the screenshots/ folder.
+All relevant terminal outputs have been captured and included in the screenshots.jpg.
 
 🚀 Outcome
-This task strengthens your hands-on shell scripting and Git skills—foundational for DevOps, Linux administration, and automation workflows.
+This task strengthens your hands-on shell scripting and Git skills, foundational for DevOps, Linux administration, and automation workflows.
