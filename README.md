@@ -1,18 +1,52 @@
-This project is a hands-on Linux shell scripting assignment designed to practice basic file operations, command-line automation, and Git workflow in a real-world environment (Git Bash).
-📋 Task Overview
-✔️ Create a directory and navigate inside it
-✔️ Create and manipulate text files using echo, cat, and >>
-✔️ List all files and directories
-✔️ Create 20 .txt files using shell loop
-✔️ Rename the first 5 files to .yml
-✔️ Display the latest 5 modified/created files
-✔️ Upload all results and screenshots to GitHub
+# 🐧 Linux Shell Scripting Task – File Automation & Git Workflow
 
-💻 Tech Stack Used
-Bash / Shell Scripting (Git Bash / WSL / AWS)
-Git & GitHub for version control and submission
-📸 Output Screenshots
-All relevant terminal outputs have been captured and included in the screenshots.jpg.
+A hands-on shell scripting exercise to practice file operations, automation, and Git version control using Git Bash / WSL / AWS.
 
-🚀 Outcome
-This task strengthens your hands-on shell scripting and Git skills, foundational for DevOps, Linux administration, and automation workflows.
+---
+
+## 🔍 Task Overview
+
+1. **Create** a new directory and navigate into it
+2. **Create and edit** text files using `echo`, `cat`, and `>>`
+3. **List** all files with `ls -al`
+4. **Generate** 20 `.txt` files using a loop
+5. **Rename** the first 5 `.txt` files to `.yml`
+6. **Display** the latest 5 modified/created files (`ls -lt | head -n 5`)
+7. **Document** the outputs via screenshots and finalize on GitHub
+
+---
+
+## 💻 Tech Stack
+
+| Tool                 | Role                         |
+| -------------------- | ---------------------------- |
+| Bash / Shell         | File automation & scripting  |
+| Git                  | Version control              |
+| GitHub               | Repository hosting & sharing |
+| Git Bash / WSL / AWS | Execution environment        |
+
+---
+
+## ✅ Outcome
+
+This project helped me:
+
+* Write and run shell scripts for file tasks
+* Learn looping and file manipulation in Bash
+* Use Git and GitHub to manage and showcase projects
+* Build foundational skills for DevOps and Linux admin roles
+
+---
+
+## 🧠 Learnings
+
+* Shell scripting with loop constructs
+* Redirecting output and appending files
+* Basic Git workflow: init ➔ add ➔ commit ➔ push
+* Organizing projects for clarity and sharing
+
+
+
+
+
+
