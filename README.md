@@ -1,5 +1,4 @@
 This project is a hands-on Linux shell scripting assignment designed to practice basic file operations, command-line automation, and Git workflow in a real-world environment (Git Bash).
-
 📋 Task Overview
 ✔️ Create a directory and navigate inside it
 ✔️ Create and manipulate text files using echo, cat, and >>
